@@ -1,0 +1,35 @@
+nav {
+    background-color: rgb(226, 252, 190);
+}
+
+nav button {
+    margin: .2rem 2vw;
+    background-color: transparent;
+    border: none;
+    font-size: 2rem;
+}
+
+nav ul li a {
+    display: block;
+    padding: .8rem 2vw;
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover {
+    background-color: white;
+    color: red;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#logo img {
+    width: 20%;
+}
+
+#mainFooter, #contactInformation {
+    background-color: antiquewhite;
+}
